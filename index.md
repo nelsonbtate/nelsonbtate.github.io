@@ -11,7 +11,7 @@ I am a student at Georiga Institute of Technology studying Finance with a concen
 Finance, FinTech
 
 ## Other Interests
-Travel, Basketball, Fitness
+Travel, Basketball, Fitness, One Piece
 
 ## Contact Information:
 * Email: [nelsontate2021@gmail.com](nelsontate2021@gmail.com)
