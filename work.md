@@ -4,10 +4,10 @@ title: "Work"
 ---
 ## State Farm
 ### Property & Casualty Underwriting Intern (May 2024 - August 2024)
-• Identified secondary perils, including secondary effects of primary perils, which have the potential for insured losses
-• Analyzed historical claims data to determine the probability of secondary peril occurrences
-• Evaluated State Farm’s risk exposure to insured losses caused by secondary perils
-• Developed strategies and mitigating actions for State Farm and customers to reduce the risk of injury and property damage
+* Identified secondary perils, including secondary effects of primary perils, which have the potential for insured losses
+* Analyzed historical claims data to determine the probability of secondary peril occurrences
+* Evaluated State Farm’s risk exposure to insured losses caused by secondary perils
+* Developed strategies and mitigating actions for State Farm and customers to reduce the risk of injury and property damage
 ## Georgia Tech Foundation, Inc.
 ### Student Intern (April 2023 - December 2024)
 • Interface with multiple constituencies, including trustees, staff, alumni, and donors
