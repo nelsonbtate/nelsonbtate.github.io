@@ -1,6 +1,6 @@
-title: "Nelson Tate's Website"
+title: "Nelson Tate"
 author: "Nelson Tate"
-description: "Nelson Tate's Professional Website>"
+description: "Nelson Tate's Website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,17 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV.md", title: "CV"}
+  - {file: "index.html", title: "Home"}
+  - {url: Resume_Riley_Luke.pdf, title: "CV"}
+  - {file: "work.md", title: "Work"}
+  - {file: "projects.md", title: "Projects"}
+  - {file: "skills.md", title: "Skills"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "nelsontate2021@gmail.com"}
+  - {title: Github, icon: github, url: "https://nelsonbtate.github.io/"}
+  - {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/nelsontate/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
