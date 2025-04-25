@@ -14,5 +14,5 @@ Finance, FinTech
 Travel, Basketball, Fitness
 
 ## Contact Information:
-* Email: nelsontate2021@gmail.com
-* LinkedIn: https://www.linkedin.com/in/nelsontate/
+* Email: [nelsontate2021@gmail.com](nelsontate2021@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/nelsontate/](https://www.linkedin.com/in/nelsontate/)
