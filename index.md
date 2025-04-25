@@ -1,0 +1,5 @@
+---
+layout: default
+title: "Nelson Tate's Home Page"
+---
+<img src="Nelson_Tate_Pic" atl="Nelson Tate" width="200">
