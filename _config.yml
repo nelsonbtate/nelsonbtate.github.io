@@ -1,6 +1,6 @@
 title: "Nelson Tate"
 author: "Nelson Tate"
-description: "Nelson Tate's Website"
+description: "Georgia Institute of Technology"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {url: Resume_Riley_Luke.pdf, title: "CV"}
+  - {url: Nelson_Tate_Resume, title: "CV"}
   - {file: "work.md", title: "Work"}
   - {file: "projects.md", title: "Projects"}
   - {file: "skills.md", title: "Skills"}
