@@ -12,3 +12,7 @@ Finance, FinTech
 
 ## Other Interests
 Travel, basketball, fitness
+
+## Contact Information:
+Email: nelsontate2021@gmail.com
+LinkedIn: https://www.linkedin.com/in/nelsontate/
