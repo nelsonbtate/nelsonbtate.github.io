@@ -2,7 +2,7 @@
 layout: page
 title: "Nelson Tate's Home Page"
 ---
-<img src="Nelson_Tate_Pic" atl="Nelson Tate" width="200">
+<img src="NelsonTatePic.jpeg" atl="Nelson Tate" width="200">
 
 # Welcome to my website
 I am a senior at the Georgia Institute of Technology studying finance with a concentration in fintech
