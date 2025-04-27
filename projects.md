@@ -9,5 +9,6 @@ title: "Projects"
 
 ## Starbucks' Stock Pitch
 ![Starbucks Buy](starbucks_indicators.jpg)
+[Starbucks Presentation](Starbucks_Slides.pdf)
 
 ## Cybersecurity Proposed Act Paper
