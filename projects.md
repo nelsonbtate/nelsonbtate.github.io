@@ -4,7 +4,7 @@ title: "Projects"
 ---
 ## Pharmaceutical Industry Analysis
 ![Industry Trends](pharmaceutical_trends.jpg)
-![Company Comparison](oharmaceutical_comparison.jpg)
+![Company Comparison](pharmaceutical_comparison.jpg)
 [Pharmaceutical Industry Presentation](Pharmaceutical_Slides.pdf)
 
 ## Starbucks' Stock Pitch
