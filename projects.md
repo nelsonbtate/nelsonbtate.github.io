@@ -3,8 +3,9 @@ layout: page
 title: "Projects"
 ---
 ## Pharmaceutical Industry Analysis
-<img src="pharmaceutical_trends.jpg" alt="Industry Trends" witdh="600">
-<img src="pharmaceutical_comparison.jpg" alt="Industry Trends" witdh="600">
+![Industry Trends](pharmaceutical_trends.jpg)
+![Company Comparison](oharmaceutical_comparison.jpg)
+[Pharmaceutical Industry Presentation](Pharmaceutical_Slides.pdf)
 
 ## Starbucks' Stock Pitch
 
