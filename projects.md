@@ -8,6 +8,6 @@ title: "Projects"
 [Pharmaceutical Industry Presentation](Pharmaceutical_Slides.pdf)
 
 ## Starbucks' Stock Pitch
-
+![Starbucks Buy](starbucks_indicators.jpg)
 
 ## Cybersecurity Proposed Act Paper
