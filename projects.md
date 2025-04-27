@@ -3,4 +3,4 @@ layout: page
 title: "Projects"
 ---
 ## Pharmaceutical Industry Analysis
-![Relative](indsutry trends.png)
+<img src="industry trends.png">
