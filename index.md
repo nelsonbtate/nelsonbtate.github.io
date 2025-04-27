@@ -11,7 +11,7 @@ I am a senior at the Georgia Institute of Technology studying finance with a min
 Finance, FinTech, Asset Management, International Business
 
 ## Other Interests
-International Travel, Basketball, Fitness, One Piece, Snowboarding, Music
+International Travel, Basketball, Fitness, Snowboarding, Music, One Piece
 
 ## Contact Information:
 * Email: [nelsontate2021@gmail.com](nelsontate2021@gmail.com)
