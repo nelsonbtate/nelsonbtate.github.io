@@ -14,5 +14,5 @@ Finance, Fintech, Asset Management, International Business
 International Travel, Basketball, Fitness, Snowboarding, Music, One Piece
 
 ## Contact Information:
-* Email: [nelsontate2021@gmail.com](nelsontate2021@gmail.com)
+* Email: [ntate6@gatech.edu](ntate6@gatech.edu)
 * LinkedIn: [https://www.linkedin.com/in/nelsontate/](https://www.linkedin.com/in/nelsontate/)
