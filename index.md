@@ -8,7 +8,7 @@ title: "Nelson Tate's Home Page"
 I am a senior at the Georgia Institute of Technology studying finance with a minor in fintech
 
 ## Interests
-Finance, FinTech, Asset Management, International Business
+Finance, Fintech, Asset Management, International Business
 
 ## Other Interests
 International Travel, Basketball, Fitness, Snowboarding, Music, One Piece
