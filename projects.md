@@ -2,6 +2,10 @@
 layout: page
 title: "Projects"
 ---
+
+## Walmart Inc.
+[Walmart Inc. Paper](Walmart.pdf)
+
 ## Pharmaceutical Industry Analysis
 ![Industry Trends](pharmaceutical_trends.jpg)
 ![Company Comparison](pharmaceutical_comparison.jpg)
