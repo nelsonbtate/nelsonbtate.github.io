@@ -14,7 +14,7 @@ Finance, Fintech, Asset Management, International Business
 International Travel, Basketball, Fitness, Snowboarding, Music, One Piece
 
 ## CV
-![Nelson Tate CV](NelsonTateCV.pdf)
+[Nelson Tate CV](NelsonTateCV.pdf)
 
 ## Contact Information:
 * Email: [ntate6@gatech.edu](ntate6@gatech.edu)
